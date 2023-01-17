@@ -33,7 +33,3 @@ python main.py
 ```
 
 若要调整迭代次数等参数在config.py文件中进行手动调整
-
-### 实验结果
-
-![](E:\homework\ArtificialIntelegent\exp\2\src\noise (2)\89.png)
